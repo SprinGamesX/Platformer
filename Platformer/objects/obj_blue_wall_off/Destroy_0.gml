@@ -1,0 +1,1 @@
+instance_create_layer(x,y,"Structure", obj_blue_wall);
