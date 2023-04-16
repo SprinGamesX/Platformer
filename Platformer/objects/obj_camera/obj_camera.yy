@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Misc",
+    "path": "folders/Objects/Misc.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_camera_icon",
+    "path": "sprites/spr_camera_icon/spr_camera_icon.yy",
+  },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

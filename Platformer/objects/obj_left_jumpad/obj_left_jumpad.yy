@@ -11,8 +11,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_jumpad","path":"objects/obj_jumpad/obj_jumpad.yy",},"propertyId":{"name":"force","path":"objects/obj_jumpad/obj_jumpad.yy",},"value":"7",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Building",
+    "path": "folders/Objects/Building.yy",
   },
   "parentObjectId": {
     "name": "obj_jumpad",

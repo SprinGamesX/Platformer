@@ -27,7 +27,7 @@ if (place_meeting(x + hsp, y, obj_solid)){
 }
 x += hsp;
 
-if (place_meeting(x,y + vsp, obj_solid)){
+if (place_meeting(x,y + vsp + 0.2, obj_solid)){
 	if(vsp > 0) canJump = jumpBuffer;
 	while(abs(vsp) > 0.2){
 		vsp *= 0.5;

@@ -3,5 +3,11 @@
 function make_immune(_time){
 	immune = true;
 	alarm[0] = _time;
-	
+}
+
+function respawn(){
+	x = checkpoint.x;
+	y = checkpoint.y;
+	hsp = 0;
+	vsp = 0;
 }
